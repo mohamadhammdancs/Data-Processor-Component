@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.example.data_processor.controlelr.DataProcessorController" />
+    <option name="filePath" value="" />
+    <option name="method" value="uploadCSV" />
+    <option name="methodType" value="POST" />
+    <option name="module" value="data-processor" />
+    <option name="originUrl" value="/api/data/upload" />
+    <option name="requestParamMap">
+      <map>
+        <entry key="file">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="responseParamMap">
+      <map>
+        <entry key="return">
+          <value>
+            <Object />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="returnDocument" value="{&quot;status&quot;:{},&quot;headers&quot;:{},&quot;body&quot;:{&quot;java.lang.String&quot;:&quot;No comment,Type =String&quot;}}" />
+    <option name="url" value="/api/data/upload" />
+  </component>
+</project>
